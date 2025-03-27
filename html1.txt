@@ -1,0 +1,62 @@
+<div class="div-container">
+
+    <div class="box-left">
+
+      <div class="left-box-top">
+        <h2>Create and schedule content <span>quicker.</span></h2>
+        <img src="assets/images/illustration-create-post.webp" alt="">
+      </div>
+
+      <div class="left-box-bottom">
+        <h2>Write your content <br>using AI.</h2>
+        <img src="assets/images/illustration-ai-content.webp" alt="">
+      </div>
+
+    </div>
+
+    <div class="box-right">
+
+      <div class="right-box1" style="grid-area: box-1">
+        <h1>Social Media <span>10x</span><br> Faster with AI</h1>
+
+        <div class="box3-content">
+          <img src="assets/images/illustration-five-stars.webp" alt="">
+          <p>Over 4,000 5-star reviews</p>
+        </div>
+      </div>
+
+      <div class="right-box2" style="grid-area: box-2">
+        <h2>Schedule to social media.</h2>
+        <img src="assets/images/illustration-schedule-posts.webp" alt="">
+        <p>Optimize post timings <br>to publish content at <br>the perfect time for<br> your audience.</p>
+      </div>
+
+      <div class="right-box3" style="grid-area: box-3">
+        <img src="assets/images/illustration-multiple-platforms.webp" alt="">
+        <h2>Manage <br>multiple<br> accounts and <br>platforms.</h2>
+      </div>
+
+      <div class="right-box4" style="grid-area: box-4">
+        <h2>Maintain a <br>consistent <br>posting <br>schedule.</h2>
+        <img src="assets/images/illustration-consistent-schedule.webp" alt="">
+      </div>
+
+      <div class="right-box5" style="grid-area: box-5">
+        <div class="box5-content">
+          <h1>>56%</h1>
+          <p>faster audience growth</p>
+        </div>
+
+        <img src="assets/images/illustration-audience-growth.webp" alt="">
+        
+      </div>
+
+      <div class="right-box6" style="grid-area: box-6">
+        <img src="assets/images/illustration-grow-followers.webp" alt="">
+        <h1>Grow followers with non-stop content.</h1>
+      </div>
+
+    </div>
+    
+
+  </div>
